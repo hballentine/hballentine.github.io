@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hollie Ballentine"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hi, my name is Hollie Ballentine and I am a Senior at Collegiate School of Medine and Bioscience.Welcome to my Acadeic Protfolio! "
+  location         : "St. Louis, MO"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
